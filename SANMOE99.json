@@ -3,18 +3,18 @@
 
 {
          "name": "TH-VIP2-DTAC-TRUE",
-         "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/1a.ovpn"
+         "url": "https://raw.githubusercontent.com/kyawsanmoe/kyawsanmoe/main/1a.ovpn"
       }
 ,
 {
          "name": "TH-VIP1-DTAC-TRUE",
-         "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/1b.ovpn"
+         "url": "https://raw.githubusercontent.com/kyawsanmoe/kyawsanmoe/main/1a.ovpn"
       }
 ,
 
 {
          "name": "SG1-DTAC-TRUE",
-         "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/1a.ovpn"
+         "url": "https://raw.githubusercontent.com/kyawsanmoe/kyawsanmoe/main/1a.ovpn"
       }
 ,
 {
@@ -24,27 +24,20 @@
 ,
 {
          "name": "SG3-DTAC-TRUE",
-         "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/1b.ovpn"
+         "url": "https://raw.githubusercontent.com/kyawsanmoe/kyawsanmoe/main/1b.ovpn"
       }
 ,
 
 {
         "name": "TH-VIP3-DTAC",
-         "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/1a.ovpn"
+         "url": "https://raw.githubusercontent.com/kyawsanmoe/kyawsanmoe/main/1b.ovpn"
       }
       
    ],
 "message":"
-         🤗မင်္ဂလာပါ🤗
-SANMOE VIPမှကြိုဆိုပါတယ်vipဝယ်ယူအား
-ပေးအသုံးပြုနိုင်တဲ့(ဆင်ကတ်)👇
-ထူးမူ-ဒီတက် များဖြစ်ပါသည်
-VIP တစ်လမှ၅၀ဘတ်သာဖြစ်ပါတယ်
-လိုင်းကောင်းလေးသုံးချင်ရင်(၉၀)ရက်61ဘတ်
-နဲ့တွဲစမတ်ပေးရပါမည်
-📤ဖိုင်တင်ရက် 23/5/2023
+         dtac&true
 APKဗားရှင်း-1
-\n\nFb: SANMOE",
-"title":"အပ်ဒိတ်တင်ပါ" ,
-   "version":2
+\n\nFb: SAN",
+"title":"update" ,
+   "version":3
 }
