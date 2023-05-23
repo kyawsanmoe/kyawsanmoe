@@ -2,12 +2,12 @@
    "files": [    
 
 {
-         "name": "TH-VIP2-DTAC-TRUE",
+         "name": "TH-DTAC-TRUE",
          "url": "https://raw.githubusercontent.com/kyawsanmoe/kyawsanmoe/main/1a.ovpn"
       }
 ,
 {
-         "name": "TH-VIP1-DTAC-TRUE",
+         "name": "TH-DTAC-TRUE",
          "url": "https://raw.githubusercontent.com/kyawsanmoe/kyawsanmoe/main/1a.ovpn"
       }
 ,
@@ -29,7 +29,7 @@
 ,
 
 {
-        "name": "TH-VIP3-DTAC",
+        "name": "TH-TRUE-DTAC",
          "url": "https://raw.githubusercontent.com/kyawsanmoe/kyawsanmoe/main/1b.ovpn"
       }
       
@@ -39,5 +39,5 @@
 APKဗားရှင်း-1
 \n\nFb: SAN",
 "title":"update" ,
-   "version":4
+   "version":5
 }
