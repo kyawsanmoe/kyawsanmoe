@@ -7,7 +7,7 @@
       }
 ,
 {
-         "name": "TH-DTAC-TRUE",
+         "name": "TH1-DTAC-TRUE",
          "url": "https://raw.githubusercontent.com/kyawsanmoe/kyawsanmoe/main/1a.ovpn"
       }
 ,
@@ -29,7 +29,7 @@
 ,
 
 {
-        "name": "TH-TRUE-DTAC",
+        "name": "TH2-TRUE-DTAC",
          "url": "https://raw.githubusercontent.com/kyawsanmoe/kyawsanmoe/main/1b.ovpn"
       }
       
@@ -39,5 +39,5 @@
 APKဗားရှင်း-1
 \n\nFb: SAN",
 "title":"update" ,
-   "version":5
+   "version":6
 }
