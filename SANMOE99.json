@@ -2,42 +2,71 @@
    "files": [    
 
 {
-         "name": "TH-DTAC-TRUE",
-         "url": "https://raw.githubusercontent.com/kyawsanmoe/kyawsanmoe/main/SG01.ovpn"
-      }
-,
-{
-         "name": "TH1-DTAC-TRUE",
-         "url": "https://raw.githubusercontent.com/kyawsanmoe/kyawsanmoe/main/SG02.ovpn"
-      }
-,
-
-{
          "name": "SG1-DTAC-TRUE",
-         "url": "https://raw.githubusercontent.com/kyawsanmoe/kyawsanmoe/main/SG03.ovpn"
+         "url": "https://raw.githubusercontent.com/kyawsanmoe/kyawsanmoe/main/sanmoe.ovpn"
       }
 ,
 {
          "name": "SG2-DTAC-TRUE",
-         "url": "https://raw.githubusercontent.com/kyawsanmoe/kyawsanmoe/main/SG04.ovpn"
+         "url": "https://raw.githubusercontent.com/kyawsanmoe/kyawsanmoe/main/A.ovpn"
       }
 ,
 {
          "name": "SG3-DTAC-TRUE",
-         "url": "https://raw.githubusercontent.com/kyawsanmoe/kyawsanmoe/main/SG05.ovpn"
+         "url": "https://raw.githubusercontent.com/kyawsanmoe/kyawsanmoe/main/B.ovpn"
+      }
+,
+{
+         "name": "SG4-DTAC-TRUE",
+         "url": "https://raw.githubusercontent.com/kyawsanmoe/kyawsanmoe/main/C.ovpn"
       }
 ,
 
 {
-        "name": "TH2-TRUE-DTAC",
-         "url": "https://raw.githubusercontent.com/kyawsanmoe/kyawsanmoe/main/1b.ovpn"
+         "name": "SG5-DTAC-TRUE",
+         "url": "https://raw.githubusercontent.com/kyawsanmoe/kyawsanmoe/main/D.ovpn"
+      }
+,
+{
+         "name": "SG6-DTAC-TRUE",
+         "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/E.ovpn"
+      }
+,
+{
+         "name": "SG7-DTAC-TRUE",
+         "url": "https://raw.githubusercontent.com/kyawsanmoe/kyawsanmoe/main/F.ovpn"
+      }
+,
+
+{
+         "name": "SG8-DTAC-TRUE",
+         "url": "https://raw.githubusercontent.com/kyawsanmoe/kyawsanmoe/main/G.ovpn"
+      }
+,
+{
+         "name": "SG9-DTAC-TRUE",
+         "url": "https://raw.githubusercontent.com/sanmoevip/SANMOEVIP/main/H.ovpn"
+      }
+,
+{
+         "name": "SG10-DTAC-TRUE",
+         "url": "https://raw.githubusercontent.com/kyawsanmoe/kyawsanmoe/main/I.ovpn"
+      }
+,
+
+{
+        "name": "TH-VIP-TRUE-DTAC",
+         "url": "https://raw.githubusercontent.com/kyawsanmoe/kyawsanmoe/main/sanmoevipnew.ovpn"
       }
       
    ],
 "message":"
-         dtac&true
+
+🏵 WELCOME TO SANMOE VPN 🏵
+   ⏱LATEST UPDATE- 28/05/2023(Y.B.G)⏱
+   
 APKဗားရှင်း-1
-\n\nFb: SAN",
+\n\nFb: SANMOE ",
 "title":"update" ,
-   "version":6
+   "version":7
 }
