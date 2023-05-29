@@ -2,58 +2,82 @@
    "files": [    
 
 {
-         "name": "SG1-DTAC-TRUE",
+         "name": "SG1-VIPGMAE-FREE",
          "url": "https://raw.githubusercontent.com/kyawsanmoe/kyawsanmoe/main/sanmoe.ovpn"
       }
 ,
 {
-         "name": "SG2-DTAC-TRUE",
-         "url": "https://raw.githubusercontent.com/kyawsanmoe/kyawsanmoe/main/A.ovpn"
+         "name": "SG2-D&T-GAME-FREE",
+         "url": "https://raw.githubusercontent.com/kyawsanmoe/kyawsanmoe/main/14.ovpn"
       }
 ,
 {
-         "name": "SG3-DTAC-TRUE",
-         "url": "https://raw.githubusercontent.com/kyawsanmoe/kyawsanmoe/main/B.ovpn"
+         "name": "SG3-D&T-FREE",
+         "url": "https://raw.githubusercontent.com/kyawsanmoe/kyawsanmoe/main/2.ovpn"
       }
 ,
 {
-         "name": "SG4-DTAC-TRUE",
-         "url": "https://raw.githubusercontent.com/kyawsanmoe/kyawsanmoe/main/C.ovpn"
+         "name": "SG4-D&T-GAME-FREE",
+         "url": "https://raw.githubusercontent.com/kyawsanmoe/kyawsanmoe/main/3.ovpn"
       }
 ,
 
 {
-         "name": "SG5-DTAC-TRUE",
-         "url": "https://raw.githubusercontent.com/kyawsanmoe/kyawsanmoe/main/D.ovpn"
+         "name": "SG5-D&T-FREE",
+         "url": "https://raw.githubusercontent.com/kyawsanmoe/kyawsanmoe/main/4.ovpn"
       }
 ,
 {
-         "name": "SG6-DTAC-TRUE",
-         "url": "https://raw.githubusercontent.com/kyawsanmoe/kyawsanmoe/main/E.ovpn"
+         "name": "SG6-D&T-FREE",
+         "url": "https://raw.githubusercontent.com/kyawsanmoe/kyawsanmoe/main/5.ovpn"
       }
 ,
 {
-         "name": "SG7-DTAC-TRUE",
-         "url": "https://raw.githubusercontent.com/kyawsanmoe/kyawsanmoe/main/F.ovpn"
+         "name": "SG7-D&T-GAME-FREE",
+         "url": "https://raw.githubusercontent.com/kyawsanmoe/kyawsanmoe/main/6.ovpn"
       }
 ,
 
 {
-         "name": "SG8-DTAC-TRUE",
-         "url": "https://raw.githubusercontent.com/kyawsanmoe/kyawsanmoe/main/G.ovpn"
+         "name": "SG8-D&T-FREE",
+         "url": "https://raw.githubusercontent.com/kyawsanmoe/kyawsanmoe/main/7.ovpn"
       }
 ,
 {
-         "name": "SG9-DTAC-TRUE",
-         "url": "https://raw.githubusercontent.com/kyawsanmoe/kyawsanmoe/main/H.ovpn"
+         "name": "SG9-D&T-GAME-FREE",
+         "url": "https://raw.githubusercontent.com/kyawsanmoe/kyawsanmoe/main/8.ovpn"
       }
 ,
 {
-         "name": "SG10-DTAC-TRUE",
-         "url": "https://raw.githubusercontent.com/kyawsanmoe/kyawsanmoe/main/I.ovpn"
+         "name": "SG10-D&T-FREE",
+         "url": "https://raw.githubusercontent.com/kyawsanmoe/kyawsanmoe/main/9.ovpn"
       }
 ,
-
+{
+         "name": "SG11-D&T-FREE",
+         "url": "https://raw.githubusercontent.com/kyawsanmoe/kyawsanmoe/main/10.ovpn"
+      }
+,
+{
+         "name": "SG12-D&T-FREE",
+         "url": "https://raw.githubusercontent.com/kyawsanmoe/kyawsanmoe/main/11.ovpn"
+      }
+,
+{
+         "name": "SG13-D&T-FREE",
+         "url": "https://raw.githubusercontent.com/kyawsanmoe/kyawsanmoe/main/12.ovpn"
+      }
+,
+{
+         "name": "SG14-D&T-GAME-FREE",
+         "url": "https://raw.githubusercontent.com/kyawsanmoe/kyawsanmoe/main/13.ovpn"
+      }
+,
+{
+         "name": "SG15-D&T-GAME-FREE",
+         "url": "https://raw.githubusercontent.com/kyawsanmoe/kyawsanmoe/main/1.ovpn"
+      }
+,
 {
         "name": "TH-VIP-TRUE-DTAC",
          "url": "https://raw.githubusercontent.com/kyawsanmoe/kyawsanmoe/main/sanmoevipnew.ovpn"
@@ -62,11 +86,13 @@
    ],
 "message":"
 
-🏵 WELCOME TO SANMOE VPN 🏵
-   ⏱LATEST UPDATE- 28/05/2023(Y.B.G)⏱
-   
-APKဗားရှင်း-7
-\n\nFb: SANMOE",
+       🏵 WELCOME TO SANMOE VPN 🏵
+       
+ ⏱LATEST UPDATE- 29/05/2023(Y.B.G)⏱
+ 
+   APK-version11
+
+\n\nFb: KYAWSANMOE",
 "title":"update" ,
-   "version":10
+   "version":11
 }
