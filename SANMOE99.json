@@ -2,102 +2,57 @@
    "files": [    
 
 {
-         "name": "SG-VIPGMAE-FREE1",
-         "url": "https://raw.githubusercontent.com/kyawsanmoe/kyawsanmoe/main/svip.ovpn"
+         "name": "SG10-VIPGMAE-FREE",
+         "url": "https://raw.githubusercontent.com/kyawsanmoe/kyawsanmoe/main/vip1.ovpn"
       }
 ,
 {
-         "name": "SG-VIPGAME-FREE2",
-         "url": "https://raw.githubusercontent.com/kyawsanmoe/kyawsanmoe/main/svip1.ovpn"
+         "name": "SG9-VIPGAME-FREE",
+         "url": "https://raw.githubusercontent.com/kyawsanmoe/kyawsanmoe/main/vip2.ovpn"
       }
 ,
 {
-         "name": "SG3-VIPGAME-FREE3",
-         "url": "https://raw.githubusercontent.com/kyawsanmoe/kyawsanmoe/main/svip2.ovpn"
-      }
-,
-{
-         "name": "SG-VIPGAME-FREE4",
+         "name": "SG8-VIPGAME-FREE",
          "url": "https://raw.githubusercontent.com/kyawsanmoe/kyawsanmoe/main/svip3.ovpn"
       }
 ,
 {
-         "name": "SG-VIPGAME-FREE5",
+         "name": "SG7-VIPGAME-FREE",
+         "url": "https://raw.githubusercontent.com/kyawsanmoe/kyawsanmoe/main/svip4.ovpn"
+      }
+,
+{
+         "name": "SG6-VIPD&T-FREE",
          "url": "https://raw.githubusercontent.com/kyawsanmoe/kyawsanmoe/main/sanmoe.ovpn"
       }
 ,
 {
-         "name": "SG-D&T-FREE1",
-         "url": "https://raw.githubusercontent.com/kyawsanmoe/kyawsanmoe/main/14.ovpn"
+         "name": "SG5-VIPGMAE-FREE",
+         "url": "https://raw.githubusercontent.com/kyawsanmoe/kyawsanmoe/main/vip8.ovpn"
       }
 ,
 {
-         "name": "SG-D&T-FREE2",
-         "url": "https://raw.githubusercontent.com/kyawsanmoe/kyawsanmoe/main/1.ovpn"
+         "name": "SG4-VIPGAME-FREE",
+         "url": "https://raw.githubusercontent.com/kyawsanmoe/kyawsanmoe/main/vip7.ovpn"
       }
 ,
 {
-         "name": "SG-D&T-FREE3",
-         "url": "https://raw.githubusercontent.com/kyawsanmoe/kyawsanmoe/main/2.ovpn"
+         "name": "SG3-VIPGAME-FREE",
+         "url": "https://raw.githubusercontent.com/kyawsanmoe/kyawsanmoe/main/svip6.ovpn"
       }
 ,
 {
-         "name": "SG-D&T-FREE4",
-         "url": "https://raw.githubusercontent.com/kyawsanmoe/kyawsanmoe/main/3.ovpn"
+         "name": "SG2-VIPGAME-FREE",
+         "url": "https://raw.githubusercontent.com/kyawsanmoe/kyawsanmoe/main/svip5.ovpn"
       }
 ,
 {
-         "name": "SG-D&T-FREE5",
-         "url": "https://raw.githubusercontent.com/kyawsanmoe/kyawsanmoe/main/4.ovpn"
+         "name": "SG1-VIPD&T-FREE",
+         "url": "https://raw.githubusercontent.com/kyawsanmoe/kyawsanmoe/main/sanmoe1.ovpn"
       }
 ,
 {
-         "name": "SG-D&T-FREE6",
-         "url": "https://raw.githubusercontent.com/kyawsanmoe/kyawsanmoe/main/5.ovpn"
-      }
-,
-{
-         "name": "SG-D&T-FREE7",
-         "url": "https://raw.githubusercontent.com/kyawsanmoe/kyawsanmoe/main/6.ovpn"
-      }
-,
-{
-         "name": "SG-D&T-FREE8",
-         "url": "https://raw.githubusercontent.com/kyawsanmoe/kyawsanmoe/main/7.ovpn"
-      }
-,
-{
-         "name": "SG-D&T-FREE9",
-         "url": "https://raw.githubusercontent.com/kyawsanmoe/kyawsanmoe/main/8.ovpn"
-      }
-,
-{
-         "name": "SG-D&T-FREE10",
-         "url": "https://raw.githubusercontent.com/kyawsanmoe/kyawsanmoe/main/9.ovpn"
-      }
-,
-{
-         "name": "SG-D&T-FREE11",
-         "url": "https://raw.githubusercontent.com/kyawsanmoe/kyawsanmoe/main/10.ovpn"
-      }
-,
-{
-         "name": "SG-D&T-FREE12",
-         "url": "https://raw.githubusercontent.com/kyawsanmoe/kyawsanmoe/main/11.ovpn"
-      }
-,
-{
-         "name": "SG-D&T-FREE13",
-         "url": "https://raw.githubusercontent.com/kyawsanmoe/kyawsanmoe/main/12.ovpn"
-      }
-,
-{
-         "name": "SG-D&T-GAME-FREE14",
-         "url": "https://raw.githubusercontent.com/kyawsanmoe/kyawsanmoe/main/13.ovpn"
-      }
-,
-{
-        "name": "TH-VIP-TRUE-DTAC",
+        "name": "TH1-VIP-TRUE-DTAC",
          "url": "https://raw.githubusercontent.com/kyawsanmoe/kyawsanmoe/main/sanmoevipnew.ovpn"
       }
       
@@ -108,9 +63,9 @@
        
  ⏱LATEST UPDATE- 29/05/2023(Y.B.G)⏱
  
-   APK-version12
+   APK-version13
 
 \n\nFb: KYAWSANMOE",
 "title":"update" ,
-   "version":12
+   "version":13
 }
