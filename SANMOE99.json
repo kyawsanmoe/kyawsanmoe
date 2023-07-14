@@ -2,62 +2,87 @@
    "files": [    
 
 {
-         "name": "SG1-VIPGMAE-FREE",
+         "name": "SG1-VIP-GMAE-FREE",
          "url": "https://raw.githubusercontent.com/kyawsanmoe/kyawsanmoe/main/vip1.ovpn"
       }
 ,
 {
-         "name": "TH1-CAO1DTAC&T",
+         "name": "SG2-CAO1DTAC&T",
          "url": "https://raw.githubusercontent.com/kyawsanmoe/kyawsanmoe/main/sancao1.ovpn"
       }
 ,
 {
-         "name": "TH3-DEO1DTAC&T",
+         "name": "TH2-VIP-GAME80-DTAC-TRUE",
+         "url": "https://github.com/kyawsanmoe/kyawsanmoe/blob/main/TH2%20DT.ovpn"
+      }
+,
+{
+         "name": "TH3-AIS-VIP-GAME80",
+         "url": "https://github.com/kyawsanmoe/kyawsanmoe/blob/main/TH3AIS.ovpn"
+      }
+,
+{
+         "name": "TH3-VIP-GAME80-DTAC-TRUE",
+         "url": "https://github.com/kyawsanmoe/kyawsanmoe/blob/main/TH3DT.ovpn"
+      }
+,
+{
+         "name": "TH5-VIP-GAME80-DTAC-TRUE",
+         "url": "https://github.com/kyawsanmoe/kyawsanmoe/blob/main/TH5DT.ovpn"
+      }
+,
+{
+         "name": "TH5-AIS-VIP-GAME80",
+         "url": "https://github.com/kyawsanmoe/kyawsanmoe/blob/main/TH5AIS.ovpn"
+      }
+,
+{
+         "name": "TH6-VIP-GAME80-DTAC-TRUE",
+         "url": "https://github.com/kyawsanmoe/kyawsanmoe/blob/main/TH6DT.ovpn"
+      }
+,
+{
+         "name": "TH6-AIS-VIP-GAME80",
+         "url": "https://github.com/kyawsanmoe/kyawsanmoe/blob/main/TH6AIS.ovpn"
+      }
+,
+{
+         "name": "SG3-DEO1DTAC&T",
          "url": "https://raw.githubusercontent.com/kyawsanmoe/kyawsanmoe/main/sandeo1.ovpn"
       }
 ,
 {
-         "name": "TH4-FRO1DTAC&T",
+         "name": "SG4-FRO1DTAC&T",
          "url": "https://raw.githubusercontent.com/kyawsanmoe/kyawsanmoe/main/sanfro1.ovpn"
       }
 ,
 {
-         "name": "TH5-FREE-DTAC&TRUE",
+         "name": "SG5-FREE-DTAC&TRUE",
          "url": "https://raw.githubusercontent.com/kyawsanmoe/kyawsanmoe/main/vip1.ovpn"
       }
 ,
 {
-         "name": "TH6-NLO1DTAC&T",
+         "name": "SG6-NLO1DTAC&T",
          "url": "https://raw.githubusercontent.com/kyawsanmoe/kyawsanmoe/main/sannlo1.ovpn"
       }
 ,
 {
-         "name": "SG4-GAME-NOPRO",
+         "name": "SG7-GAME-FREE",
          "url": "https://raw.githubusercontent.com/kyawsanmoe/kyawsanmoe/main/vip1.ovpn"
       }
 ,
 {
-         "name": "SG3-GAME-FREE",
-         "url": "https://raw.githubusercontent.com/kyawsanmoe/kyawsanmoe/main/vip1.ovpn"
-      }
-,
-{
-         "name": "SG2-GAME-FREE",
-         "url": "https://raw.githubusercontent.com/kyawsanmoe/kyawsanmoe/main/vip1.ovpn"
-      }
-,
-{
-         "name": "TH7-UKO1DTAC&TRUE",
+         "name": "SG8-UKO1DTAC&TRUE",
          "url": "https://raw.githubusercontent.com/kyawsanmoe/kyawsanmoe/main/sanuk1.ovpn"
       }
 ,
 {
-         "name": "TH8-80GAME-VIP",
+         "name": "TH8-VIP-GAME80-DTAC-TRUE",
          "url": "https://raw.githubusercontent.com/kyawsanmoe/kyawsanmoe/main/TH8.ovpn"
       }
 ,
 {
-         "name": "TH11-80GAME-VIP",
+         "name": "TH11-VIP-GAME80-DTAC-TRUE",
          "url": "https://raw.githubusercontent.com/kyawsanmoe/kyawsanmoe/main/TH11.ovpn"
       }
 ,
@@ -72,7 +97,7 @@
       }
 ,
 {
-        "name": "TH10-FREE-TRUE-DTAC",
+        "name": "SG9-FREE-TRUE-DTAC",
          "url": "https://raw.githubusercontent.com/kyawsanmoe/kyawsanmoe/main/vip1.ovpn"
       }
       
@@ -81,15 +106,15 @@
 
        🏵 WELCOME TO SANMOE VPN 🏵
        
-    ⏱LATEST UPDATE- 6/07/2023(Y.B.G)⏱
+    ⏱LATEST UPDATE- 14/07/2023(Y.B.G)⏱
  📢 GAMEသမားအတွက်vipသီးသန့်လဲရောင်းပေးသည်📢
  🔴VIPဝယ်သုံးဖို့အဆင်မ​ပြေသူများလဲVIPfreeလုပ်ပေးပါသည်🔴
                            👉ဆက်သွယ်လာပါ👇
                       https://m.me/san.moe55               
                            
-   APK-version19
+   APK-version20
 
 \n\nFb: KYAWSANMOE",
 "title":"update" ,
-   "version":19
+   "version":20
 }
